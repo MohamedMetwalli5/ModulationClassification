@@ -61,5 +61,6 @@
  ![image](https://user-images.githubusercontent.com/58489322/175792099-4a71d45c-1d40-463b-8737-f982fc456e11.png)
  
  ## CNN-LSTM Model Structure
- 
+ ![wwwwwwwwwww](https://user-images.githubusercontent.com/58489322/175792191-ef649d3c-e47b-41a8-92d5-7a444df91b5e.png)
+
 
