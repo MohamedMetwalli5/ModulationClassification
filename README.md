@@ -14,8 +14,7 @@
   The raw data contained of 2 channels mainly but we could apply derivative or
   integration on the data to get more channels.
   we have tried the following combinations during training:
-  2 Preparing data
-  • Raw data
-  • Raw data + derivative
-  • Raw data + Integration
+  * Raw data
+  * Raw data + derivative
+  * Raw data + Integration
   Combining all three together won’t fit in RAM because size of data is large.
