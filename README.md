@@ -50,3 +50,16 @@
   epochs
   * Save checkpoint which saves a checkpoint only if the model has enhanced
   its accuracy
+  
+ ## CNN Model Structure
+ ![image](https://user-images.githubusercontent.com/58489322/175792063-7ffae085-f224-4712-879c-290a837634ad.png)
+ 
+ ## Vanilla RNN Model Structure
+ ![image](https://user-images.githubusercontent.com/58489322/175792088-3c08b1c2-5020-40db-a111-4a76fdb825d0.png)
+ 
+ ## LSTM Model Structure
+ ![image](https://user-images.githubusercontent.com/58489322/175792099-4a71d45c-1d40-463b-8737-f982fc456e11.png)
+ 
+ ## CNN-LSTM Model Structure
+ 
+
