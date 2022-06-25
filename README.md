@@ -33,3 +33,19 @@
   * Vanilla RNN
   * LSTM
   * CNN-LSTM which is called CLDNN
+ ## Tuning Techniques
+  It was required to tune the learning rate of each model so we have tried the
+  most used learning rates:
+  * 1e-1
+  * 1e-2
+  * 1e-3
+  * 1e-4
+  * 1e-5
+  * 1e-6
+  In most models 1e-4 was the best regarding to accuracy and loss but in LSTM
+  model the default settings of Adam optimizer were better in integral model.
+  We also used some callback function to optimize the tuning process.
+  * EarlyStopping to stop training if the model didn’t enhance accuracy for 5
+  epochs
+  * Save checkpoint which saves a checkpoint only if the model has enhanced
+  its accuracy
