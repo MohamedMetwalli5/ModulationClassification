@@ -18,3 +18,18 @@
   * Raw data + derivative
   * Raw data + Integration
   Combining all three together won’t fit in RAM because size of data is large.
+## Data explanation
+  RadioML2016b data set consists of 1,200,000 samples each sample has the shape
+  128x2 it represents 128 complex time domain samples with 2 vectors to represent
+  the real and imaginary parts of the time samples.
+  The dataset consists of 10 different signals each one has 20 different level of noise
+  applied to it between -20 and 18 db Here’s example of each class with different
+  db levels:
+  - blue curve represents real values of the signal while magenta represents imaginary
+  values.
+  ## Different models
+  We have built 4 models:
+  * CNN
+  * Vanilla RNN
+  * LSTM
+  * CNN-LSTM which is called CLDNN
