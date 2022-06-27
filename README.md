@@ -9,7 +9,7 @@
   different labeled SNR increments for use in measuring performance across
   different signal and noise power scenarios. It is required to train and compare
   three different models then try to combine and modify these architectures to
-  obtain better results
+  obtain better results.
 ## Combining Data
   The raw data contained of 2 channels mainly but we could apply derivative or
   integration on the data to get more channels.
