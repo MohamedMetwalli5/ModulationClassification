@@ -63,4 +63,17 @@
  ## CNN-LSTM Model Structure
  ![wwwwwwwwwww](https://user-images.githubusercontent.com/58489322/175792191-ef649d3c-e47b-41a8-92d5-7a444df91b5e.png)
 
-
+ ## References
+ * T. O’shea, N. West “Radio Machine Learning Dataset Generation with
+ GNU Radio”,
+ https://pubs.gnuradio.org/index.php/grcon/article/download/11/10/
+ 
+ * T. O’Shea, J. Corgan, and T. Clancy “Convolutional Radio Modulation
+ Recognition Networks” https://arxiv.org/pdf/1602.04105.pdf
+ 
+ * N. West, T. O’shea “Deep Architectures for Modulation Recognition”,
+ https://arxiv.org/pdf/1703.09197.pdf
+ 
+ * K. Karra, S. Kuzdeba, J. Peterson “Modulation recognition using
+ hierarchical deep neural networks”
+ http://ieeexplore.ieee.org/document/7920746/?anchor=authors
